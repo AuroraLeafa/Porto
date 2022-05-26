@@ -1,7 +1,6 @@
 # Porto
 My Portofolio
 
-Its just me first time build a Web, and its a portofolio, every projects here is still not true.
-Changes may add later.
+A lot to catches up, so changes may add later.
 
-https://auroraleafa.github.io/Porto/
+[CHECK MY PORTO HERE!](https://auroraleafa.github.io/Porto/)
